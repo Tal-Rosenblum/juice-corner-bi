@@ -3,7 +3,7 @@
 End-to-end Business Intelligence project for a juice chain's ordering & delivery system: from a data warehouse to dashboards, statistical analysis and decision-support tools.
 Team project, Business Intelligence Systems course, Ben-Gurion University (2026).
 
-![Dashboard](images/dashboard.png)
+![Dashboard](strategic-report.png)
 
 ## Business Questions
 - Where should the chain open its next branch?
